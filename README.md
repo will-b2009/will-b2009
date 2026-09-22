@@ -1,21 +1,43 @@
-## Hello world!🖖 I'm Will
+# Olá, eu sou William Bonfim 👋
 
-<h2 align="left"> 🛠️ My Skills</h2>  <div align="left">   
-  <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
-  <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> <img width="12" />
-  <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />   <img width="12" />
-  <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="40" alt="Bash Logo" /> <img width="12" />
-  <!-- Ssh --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" height="40" alt="Ssh Logo" /> <img width="12" />
+💻 Estudante de programação | 🎸 Músico
 
- ###
+Sou estudante de tecnologia do Instituto Federal do Ceará (IFCE), não tão apaixonado assim por programação, mas sim por música. Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em código.
 
- <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
-  <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />   <img width="12" />
-  <!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />   <img width="12" />
-  <!-- CSS3 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />   <img width="12" />
+---
 
-###
+## 🛠️ Tecnologias
 
-<br clear="both">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux,vscode,eclipse,arduino" />
+</p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Bryan9895/Bryan9895/snake-output/snake.svg" alt="Snake animation" />
+---
+
+## 🚀 Atualmente estudando
+
+* Java
+* Desenvolvimento web
+  
+---
+
+## 📂 Projetos
+
+📇 **Agenda de contatos**
+Sistema desenvolvido em Java para cadastro e gerenciamento de contatos.
+
+---
+
+## 📫 Contato
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:jose.bonfim09@aluno.ifce.edu.br"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a>
+
+---
+
+<p align="center">
+  <i>Aprendendo, criando e evoluindo um pouco a cada dia.</i>
+</p>
