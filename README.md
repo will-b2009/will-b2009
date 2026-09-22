@@ -1,4 +1,4 @@
-# Olá, eu sou William Bonfim 👋
+# Olá, eu sou William Bonfim 🤘
 
 💻 Estudante de programação | 🎸 Músico
 
