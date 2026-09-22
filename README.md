@@ -39,5 +39,5 @@ Sistema desenvolvido em Java para cadastro e gerenciamento de contatos.
 ---
 
 <p align="center">
-  <i>Aprendendo, criando e evoluindo um pouco a cada dia.</i>
+  <i>"Errare Humanum Est."</i>
 </p>
