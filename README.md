@@ -1,43 +1,115 @@
-# Olá, eu sou William Bonfim 🤘
 
-💻 Estudante de programação | 🎸 Músico
+<div align="center">
 
-Sou estudante de tecnologia do Instituto Federal do Ceará (IFCE), não tão apaixonado assim por programação, mas sim por música. Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em código.
+# Hello, You! 👋
 
----
+### I'm William Bonfim
 
-## 🛠️ Tecnologias
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=3FBF7F&center=true&vCenter=true&width=480&lines=Technology+Student+at+IFCE;Developing+projects+in+Java;Exploring+new+technologies;Always+learning+something+new" alt="Animated introduction" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux,vscode,eclipse,arduino" />
-</p>
+<br>
 
----
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white)
 
-## 🚀 Atualmente estudando
-
-* Java
-* Desenvolvimento web
-  
----
-
-## 📂 Projetos
-
-📇 **Agenda de contatos**
-Sistema desenvolvido em Java para cadastro e gerenciamento de contatos.
+</div>
 
 ---
 
-## 📫 Contato
+## About Me
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+I'm a technology student at the **Federal Institute of Ceará (IFCE)**, Brazil.
+
+I enjoy learning new things, exploring different tools, and working on projects that allow me to put my knowledge into practice.
+
+Although programming is part of my academic journey, my greatest passion is music. 🎸
+
+```text
+Location: Ceará, Brazil
+Education: Technology Student | IFCE
+Interests: Technology, Music & Linux
+Currently Learning: Java & Web Development
+```
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,linux,vscode,eclipse,arduino&perline=5" alt="Technologies and tools" />
+
+</div>
+
+---
+
+## Currently Learning
+
+- Java & Object-Oriented Programming
+- Web Development
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### 💧 Gota+ | FluxHydro
+
+An application developed in **Java** to help monitor household water consumption.
+
+The project aims to estimate water usage based on the amount of time spent on everyday activities.
+
+**Technologies:** Java & Eclipse.
+
+### 📇 Contact Manager
+
+A contact management system developed in **Java**, designed to register and manage contact information.
+
+**Technologies:** Java & Eclipse.
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=3FBF7F&icon_color=3FBF7F" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=3FBF7F" alt="Most used languages" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=3FBF7F&line=3FBF7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+
+</div>
+
+---
+
+## Get in Touch
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:jose.bonfim09@aluno.ifce.edu.br"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+
+<a href="mailto:jose.bonfim09@aluno.ifce.edu.br">
+<img src="https://img.shields.io/badge/Email-00875A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Errare Humanum Est."</i>
-</p>
+<div align="center">
+
+*"Errare Humanum Est."*
+
+</div>
