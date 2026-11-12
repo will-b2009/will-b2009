@@ -69,6 +69,7 @@ A contact management system developed in **Java**, designed to register and mana
 
 ---
 
+
 ## GitHub Activity
 
 ### Statistics & Languages
@@ -76,22 +77,21 @@ A contact management system developed in **Java**, designed to register and mana
 <div align="center">
 
 <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=will-b2009&show_icons=true&theme=github_dark&hide_border=true&title_color=3FBF7F&icon_color=3FBF7F"
+  src="https://github-stats-extended.vercel.app/api?username=will-b2009&show_icons=true&theme=github_dark&hide_border=true&title_color=3FBF7F&icon_color=3FBF7F"
   alt="GitHub Statistics" />
 
 <img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-b2009&layout=compact&theme=github_dark&hide_border=true&title_color=3FBF7F"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=will-b2009&layout=compact&theme=github_dark&hide_border=true&title_color=3FBF7F"
   alt="Most Used Languages" />
 
 </div>
 
-### Contribution Graph
+
+### Contribution Activity
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=will-b2009&bg_color=0D1117&color=3FBF7F&line=3FBF7F&point=FFFFFF&area=true&hide_border=true"
-  alt="GitHub Contribution Graph" />
+[![View My Contributions](https://img.shields.io/badge/View_My_Contributions-3FBF7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/will-b2009?tab=overview)
 
 </div>
 
