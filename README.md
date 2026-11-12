@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hello, You! 👋
@@ -70,23 +69,29 @@ A contact management system developed in **Java**, designed to register and mana
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
+
+### Statistics & Languages
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=3FBF7F&icon_color=3FBF7F" alt="GitHub statistics" />
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=will-b2009&show_icons=true&theme=github_dark&hide_border=true&title_color=3FBF7F&icon_color=3FBF7F"
+  alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=3FBF7F" alt="Most used languages" />
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-b2009&layout=compact&theme=github_dark&hide_border=true&title_color=3FBF7F"
+  alt="Most Used Languages" />
 
 </div>
 
----
-
-## Contribution Activity
+### Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=3FBF7F&line=3FBF7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=will-b2009&bg_color=0D1117&color=3FBF7F&line=3FBF7F&point=FFFFFF&area=true&hide_border=true"
+  alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -96,7 +101,7 @@ A contact management system developed in **Java**, designed to register and mana
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/will-b2009">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
